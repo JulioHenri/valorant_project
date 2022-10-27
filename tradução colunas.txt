@@ -1,0 +1,25 @@
+RND - round
+ACS - Pontuação média de combate
+KD - Relação kill/death
+KAST - porcentagem da relação de abates, assistências, sobrevivência e trocas. Por exemplo, uma pontuação KAST 
+de 75% significa que em 75% de todas as rodadas que jogaram, o jogador conseguiu uma
+morte, uma assistência (de qualquer tipo), eles sobreviveram ou foram trocados por
+um companheiro de equipe.
+ADR - Dano médio causado por round
+KPR - Quantidade de kills por round
+APR - Quantidade de assistências por round
+FKPR - Primeiros abates por round
+FDPR - Primeiras mortes por round
+HS% - Porcentagem de HS
+CL% - Porcentagem de clutches vencidos
+KMax - Kills máximas em uma partida
+K - Quantidade de abates
+D - Quantidade de mortes
+A - Quantidade de assistências
+FK - Quantidade de primeiros abates
+FD - Quantidade de primeiras mortes
+Agents - Agentes
+Main Agent - Agente principal
+FK% - Porcentagem de primeiros abates
+FD% - Porcentagem de primeiras mortes
+Main Role - Principal classe
