@@ -1,5 +1,4 @@
 # Valorant Project 
-Dashboard with stats from teams and players of Valorant Champions Tour 2022
 
 Valorant is a tactical FPS (First Person Shooter) computer game that innovated in the gaming industry by bringing fun and challenging for players. It was developed by Riot Games (Company with experience in other games), which brought a combination of concepts from others FPS games, added to the introduction of mystical elements, specific abilities of each character, maps and game lore.
 
